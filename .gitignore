@@ -2,3 +2,6 @@
 *.zip
 dataset/
 paper/
+catboost_info/
+__pycache__/    
+*.pyc
